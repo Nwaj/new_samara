@@ -2,7 +2,7 @@
   "name": "myBuild",
   "version": "1.0.0",
   "description": "Start HTML Template - Bootstrap 4",
-  "main": "index.js",
+  "main": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
